@@ -53,8 +53,8 @@ export default function About() {
         <h2>Get in touch</h2>
 
         <p>
-          Feel free to reach out on <a href="https://twitter.com">Twitter</a> or{' '}
-          <a href="https://github.com">GitHub</a>. Always happy to chat about shared interests.
+          Feel free to reach out on <a href="https://x.com/mattXVII">X</a> or{' '}
+          <a href="https://github.com/matteomariat">GitHub</a>. Always happy to chat about shared interests.
         </p>
       </div>
     </div>

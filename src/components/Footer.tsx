@@ -7,21 +7,21 @@ export default function Footer() {
             &copy; {new Date().getFullYear()} matteo
           </p>
           <div className="flex items-center gap-6">
-            <a 
-              href="https://github.com" 
-              target="_blank" 
+            <a
+              href="https://github.com/matteomariat"
+              target="_blank"
               rel="noopener noreferrer"
               className="hover:text-[--color-text] transition-colors"
             >
               GitHub
             </a>
-            <a 
-              href="https://twitter.com" 
-              target="_blank" 
+            <a
+              href="https://x.com/mattXVII"
+              target="_blank"
               rel="noopener noreferrer"
               className="hover:text-[--color-text] transition-colors"
             >
-              Twitter
+              X
             </a>
             <a 
               href="/rss.xml" 
