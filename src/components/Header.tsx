@@ -19,7 +19,7 @@ export default function Header() {
           to="/" 
           className="font-mono text-lg font-semibold tracking-tight text-[--color-text] hover:opacity-80 transition-opacity"
         >
-          ./matteo
+          matteo_mariat
         </Link>
 
         {/* Desktop nav */}
@@ -64,7 +64,7 @@ export default function Header() {
                 className="font-mono text-lg font-semibold"
                 onClick={() => setMobileMenuOpen(false)}
               >
-                ./matteo
+                matteo_mariat
               </Link>
               <button
                 type="button"
